@@ -5,7 +5,8 @@
     "description": "A pack for the Doctrine ORM",
     "require": {
         "php": "^7.0",
-        "doctrine/orm": "^2.4.5",
-        "doctrine/doctrine-bundle": "^1.6"
+        "doctrine/instantiator": "v1.0.5",
+        "doctrine/orm": "^2.5.8",
+        "doctrine/doctrine-bundle": "^1.7"
     }
 }
