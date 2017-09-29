@@ -6,6 +6,6 @@
     "require": {
         "php": "^7.0",
         "doctrine/orm": "^2.5.11",
-        "doctrine/doctrine-bundle": "^1.6"
+        "doctrine/doctrine-bundle": "^1.6.10"
     }
 }
