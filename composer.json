@@ -1,6 +1,6 @@
 {
     "name": "symfony/orm-pack",
-    "type": "metapackage",
+    "type": "symfony-pack",
     "license": "MIT",
     "description": "A pack for the Doctrine ORM",
     "require": {
