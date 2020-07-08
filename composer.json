@@ -4,9 +4,9 @@
     "license": "MIT",
     "description": "A pack for the Doctrine ORM",
     "require": {
-        "composer/package-versions-deprecated: "*",
-        "doctrine/orm": "*",
-        "doctrine/doctrine-bundle": "*",
-        "doctrine/doctrine-migrations-bundle": "*"
+        "composer/package-versions-deprecated": "*",
+        "doctrine/orm": "^2",
+        "doctrine/doctrine-bundle": "^2",
+        "doctrine/doctrine-migrations-bundle": "^2"
     }
 }
