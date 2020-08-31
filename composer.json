@@ -5,6 +5,7 @@
     "description": "A pack for the Doctrine ORM",
     "require": {
         "composer/package-versions-deprecated": "*",
+        "doctrine/common": "^2",
         "doctrine/orm": "^2",
         "doctrine/doctrine-bundle": "^2",
         "doctrine/doctrine-migrations-bundle": "^2"
