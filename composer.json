@@ -7,6 +7,7 @@
         "composer/package-versions-deprecated": "*",
         "doctrine/orm": "*",
         "doctrine/doctrine-bundle": "*",
-        "doctrine/doctrine-migrations-bundle": "*"
+        "doctrine/doctrine-migrations-bundle": "*",
+        "symfony/proxy-manager-bridge": "*"
     }
 }
