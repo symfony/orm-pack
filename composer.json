@@ -6,7 +6,9 @@
     "require": {
         "doctrine/orm": "*",
         "doctrine/doctrine-bundle": "*",
-        "doctrine/doctrine-migrations-bundle": "*",
-        "symfony/proxy-manager-bridge": "*"
+        "doctrine/doctrine-migrations-bundle": "*"
+    },
+    "conflict": {
+        "symfony/dependency-injection": "<6.2"
     }
 }
