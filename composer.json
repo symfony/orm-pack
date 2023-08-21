@@ -4,9 +4,11 @@
     "license": "MIT",
     "description": "A pack for the Doctrine ORM",
     "require": {
-        "doctrine/annotations": "*",
         "doctrine/orm": "*",
         "doctrine/doctrine-bundle": "*",
         "doctrine/doctrine-migrations-bundle": "*"
+    },
+    "conflict": {
+        "php": "<8.1"
     }
 }
