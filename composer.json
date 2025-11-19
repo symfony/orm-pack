@@ -4,7 +4,6 @@
     "license": "MIT",
     "description": "A pack for the Doctrine ORM",
     "require": {
-        "doctrine/dbal": "*",
         "doctrine/orm": "*",
         "doctrine/doctrine-bundle": "*",
         "doctrine/doctrine-migrations-bundle": "*"
